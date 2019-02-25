@@ -1,0 +1,5 @@
+While its in the incognito mode it want save the following cookies and site data.
+The history is not tracked as well.You have the option to block your location in this mode.
+A person might use this mode to keep from having so many cookies on their computer or for forensic measures.
+As a QA I would use incognito if the test required me too.
+Meanwhile I would use incognito otherwise. 
